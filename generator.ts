@@ -3,7 +3,7 @@ import { createCanvas, loadImage } from "https://deno.land/x/canvas/mod.ts";
 const width = 1200;
 const height = 630;
 const fontSize = 65;
-const wrapLength = 16;
+const wrapLength = 20;
 const imagePath = "./og-image-background.png";
 const title = Deno.args[0];
 
